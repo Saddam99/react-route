@@ -16,7 +16,7 @@ const Contact = () => (
                 controls: []
             }}
             width="100%"
-            height="100%"
+            height="500px"
         >
             {images.map((n) => (
                 <Placemark
